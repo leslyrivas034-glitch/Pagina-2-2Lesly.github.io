@@ -1,14 +1,11 @@
-/*CONFIGURACION DEL ENCABEZADO*/
 
-/* Establece una imagen de fondo para el encabezado */
 #mi-encabezado {
-background-image: url('img/imagen1.webp'); /* Reemplaza 'ruta-de-tu-imagen.jpg'
-con la ubicación de tu imagen */
-background-size: cover; /* Ajusta la imagen para cubrir todo el fondo */
-background-position: center; /* Centra la imagen en el encabezado */
-height: 35rem; /* Altura del encabezado (ajusta según tus necesidades) */
+background-image: url('img/imagen1.webp'); 
+background-size: cover; 
+background-position: center; 
+height: 35rem; 
 
-color: #000000; /* Color del texto en el encabezado para asegurar la legibilidad */
+color: #ffffff; /* Color del texto en el encabezado para asegurar la legibilidad */
 text-orientation: upright;
 text-align: center; /* Alinea el contenido al centro del encabezado */
 padding: 20px; /* Espacio de relleno interno para el contenido */
@@ -28,9 +25,8 @@ font-size: 25px; /* Tamaño de fuente del texto del encabezado */
 
 /*CONFIGURACION DEL MENU*/
 
-/* Establece el fondo transparente para el menú */
 nav {
-background-color: rgba(255, 255, 255, 0);
+background-color: rgba(250, 0, 250, 0.849);
 padding: 20px;
 position: fixed; /* Posiciona el menú en la parte superior de la página */
 top: 0;
@@ -56,7 +52,7 @@ margin-right: 30px; /* Espacio entre elementos del menú */
 
 a {
 text-decoration: none;
-color: #000000; /* Color del texto del menú */
+color: #ffffff; /* Color del texto del menú */
 font-weight: bold;
 }
 
@@ -74,16 +70,11 @@ margin-right: 0px;
 font-family: Arial, Helvetica, sans-serif;
 }
 
-/*CONFIGURACION DEL CONTENIDO*/
 .contenido {
-/* configura el color, tamaño de fuente y alineación del texto en el cuerpo de la
-página */
-color: #000000;
+color: #fffdfd;
 font-size: 20px;
 padding: 5%;
-text-align:justify;
-
-font-family: Arial, Helvetica, sans-serif;
+text-align: justify;
 }
 
 .footer {
