@@ -5,7 +5,7 @@ background-size: cover;
 background-position: center; 
 height: 35rem; 
 
-color: #fdfdfd; /* Color del texto en el encabezado para asegurar la legibilidad */
+color: #070707; /* Color del texto en el encabezado para asegurar la legibilidad */
 color: #000000;
 text-orientation: upright;
 text-align: center; /* Alinea el contenido al centro del encabezado */
@@ -82,6 +82,6 @@ text-align: justify;
 background-color: rgb(207, 156, 203); /* Cambia el color de fondo a azul */
 padding: 10rem;
 color: #050505;
-color: #faf6f6; /* Color del texto en el encabezado para asegurar la legibilidad */
+color: #000000; /* Color del texto en el encabezado para asegurar la legibilidad */
 text-align: center; /* Alinea el contenido al centro del encabezado */ 
 }
