@@ -78,9 +78,9 @@ text-align: justify;
 }
 
 .footer {
-background-color: rgb(216, 99, 206); /* Cambia el color de fondo a azul */
+background-color: rgb(207, 156, 203); /* Cambia el color de fondo a azul */
 padding: 10rem;
-color: #fffdfd;
-color: #ffffff; /* Color del texto en el encabezado para asegurar la legibilidad */
+color: #0a0202;
+color: #000000; /* Color del texto en el encabezado para asegurar la legibilidad */
 text-align: center; /* Alinea el contenido al centro del encabezado */ 
 }
