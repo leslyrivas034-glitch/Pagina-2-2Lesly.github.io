@@ -6,7 +6,7 @@ background-position: center;
 height: 35rem; 
 
 color: #fdfdfd; /* Color del texto en el encabezado para asegurar la legibilidad */
-color: #000;
+color: #ffffff;
 text-orientation: upright;
 text-align: center; /* Alinea el contenido al centro del encabezado */
 padding: 20px; /* Espacio de relleno interno para el contenido */
@@ -72,7 +72,7 @@ font-family: Arial, Helvetica, sans-serif;
 }
 
 .contenido {
-color: #050404;
+color: #ffffff;
 font-size: 20px;
 padding: 5%;
 text-align: justify;
@@ -82,6 +82,6 @@ text-align: justify;
 background-color: rgb(207, 156, 203); /* Cambia el color de fondo a azul */
 padding: 10rem;
 color: #0a0202;
-color: #000000; /* Color del texto en el encabezado para asegurar la legibilidad */
+color: #faf6f6; /* Color del texto en el encabezado para asegurar la legibilidad */
 text-align: center; /* Alinea el contenido al centro del encabezado */ 
 }
