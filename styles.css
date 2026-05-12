@@ -5,7 +5,8 @@ background-size: cover;
 background-position: center; 
 height: 35rem; 
 
-color: #ffffff; /* Color del texto en el encabezado para asegurar la legibilidad */
+color: #000000; /* Color del texto en el encabezado para asegurar la legibilidad */
+color: #000;
 text-orientation: upright;
 text-align: center; /* Alinea el contenido al centro del encabezado */
 padding: 20px; /* Espacio de relleno interno para el contenido */
@@ -26,7 +27,7 @@ font-size: 25px; /* Tamaño de fuente del texto del encabezado */
 /*CONFIGURACION DEL MENU*/
 
 nav {
-background-color: rgba(250, 0, 250, 0.849);
+background-color: rgba(226, 177, 226, 0.849);
 padding: 20px;
 position: fixed; /* Posiciona el menú en la parte superior de la página */
 top: 0;
@@ -52,7 +53,7 @@ margin-right: 30px; /* Espacio entre elementos del menú */
 
 a {
 text-decoration: none;
-color: #ffffff; /* Color del texto del menú */
+color: #000000; /* Color del texto del menú */
 font-weight: bold;
 }
 
